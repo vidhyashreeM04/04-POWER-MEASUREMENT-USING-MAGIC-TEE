@@ -65,12 +65,17 @@ power coupled to thecollinear to that in the main arm, in dB. This value is arou
 
 **Isolation measurement** (Tabulation)
 
+<img width="1076" height="173" alt="image" src="https://github.com/user-attachments/assets/e56b1369-11d1-42a1-b2b6-488a55a86615" />
+
+
 **Measurement of power division** (Tabulation)
+
+<img width="1096" height="214" alt="image" src="https://github.com/user-attachments/assets/5b8e77ca-10e9-4286-a6e4-36b32d15c9c7" />
 
 
 **G.	Analysis of Results: (Write your own)**
 
-(Include sample calculations/Display/plot/typical graph)
+Isolation = A₁ − A₂ = 20.0 − 1.0 = 19.0 dB. Interpretation: only ~1/79 of the power fed into the E-arm appears at the H-arm (good isolation). Power division (coupling to collinear arm) = A₁ − A₂ = 20.0 − 17.0 = 3.0 dB. Interpretation: input power splits equally between the two collinear arms (each receives ≈ half the power).
 
 **H.	Conclusions: (Write your Own)**
 
@@ -84,3 +89,5 @@ Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
 •	Observation should be taken properly.
 
 **Result:**
+
+Isolation between E and H arms ≈ 19 dB; power division in the collinear arms ≈ 3 dB (equal split).
